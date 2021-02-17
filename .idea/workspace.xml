@@ -4,6 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
+<<<<<<< HEAD
     <list default="true" id="68e793bc-a5c1-4582-9f9f-d903d5ac588e" name="Default Changelist" comment="">
       <change afterPath="$PROJECT_DIR$/core/pom.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/core/src/main/java/com/xiaojkql/simplemq/remote/CommandCustomHeader.java" afterDir="false" />
@@ -29,6 +30,9 @@
       <change afterPath="$PROJECT_DIR$/note.md" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
+=======
+    <list default="true" id="68e793bc-a5c1-4582-9f9f-d903d5ac588e" name="Default Changelist" comment="" />
+>>>>>>> cacf3d7b41b9af16e2dcea8534178c8f69b5b96a
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -94,7 +98,11 @@
       <option name="presentableId" value="Default" />
       <updated>1613542748533</updated>
       <workItem from="1613542752334" duration="18000" />
+<<<<<<< HEAD
       <workItem from="1613542806605" duration="21806000" />
+=======
+      <workItem from="1613542806605" duration="21428000" />
+>>>>>>> cacf3d7b41b9af16e2dcea8534178c8f69b5b96a
     </task>
     <servers />
   </component>

@@ -24,6 +24,7 @@ public class RemotingCommand {
     // 序列化的方式
     private SerializeType serializeType = SerializeType.SIMPLEMQ;
 
+
     private HashMap<String, String> extFields;
     // 请求码、响应码
     private int code;
@@ -84,6 +85,7 @@ public class RemotingCommand {
     private byte[] headerEncode() {
         this.putHeaderToExtFields();
         return SimpleMQSerializer.encode(this);
+
     }
 
     private void putHeaderToExtFields() {
